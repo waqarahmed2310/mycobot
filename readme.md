@@ -1,6 +1,6 @@
 # MyCobot ROS 2 Simulation (Jazzy + Gazebo)
 
-This repository contains a ROS 2 Jazzy project for simulating and controlling a **MyCobot robotic arm** in **Gazebo**.  
+This repository contains a ROS 2 Jazzy project for simulating and controlling a **robotic arm** in **Gazebo**.  
 The project demonstrates robotic arm motion.
 
 The setup and simulation workflow is based on the tutorial by *Automatic Addison*.
